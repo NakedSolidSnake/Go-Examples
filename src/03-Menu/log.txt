@@ -1,0 +1,6 @@
+29/10/2020 16:40:39 http://localhost:8081- online: true
+29/10/2020 16:40:39 https://www.alura.com.br- online: true
+29/10/2020 16:40:43 http://random-status-code.herokuapp.com/- online: true
+29/10/2020 16:47:42 http://localhost:8081- online: true
+29/10/2020 16:47:43 https://www.alura.com.br- online: true
+29/10/2020 16:47:47 http://random-status-code.herokuapp.com/- online: false
